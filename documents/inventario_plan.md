@@ -1,13 +1,13 @@
 # Plan de trabajo detallado: Implementación y pruebas sobre el script PL/SQL
 
 Propósito
-- Traducir la especificación (c:\Users\SB-Alumno\Downloads\docs\documents\inventario_spec.md) en un plan de trabajo ejecutable para mejorar la robustez, validaciones y pruebas del sistema de inventario del pasillo de carnes (Supermercado Jumbo).
+- Traducir la especificación (\documents\inventario_spec.md) en un plan de trabajo ejecutable para mejorar la robustez, validaciones y pruebas del sistema de inventario del pasillo de carnes (Supermercado Jumbo).
 
 Entregables
-1. `c:\Users\SB-Alumno\Downloads\docs\documents\inventario_plan.md` (este documento).
-2. Cambios en `c:\Users\SB-Alumno\Downloads\docs\scripts\Untitled-1.sql` (package `pkg_inventario_carnes` y trigger `trg_alerta_stock`): helpers, validaciones y manejo de errores.
-3. Scripts de pruebas automáticas en `c:\Users\SB-Alumno\Downloads\tests\` (SQL blocks) que cubran criterios de aceptación.
-4. Scripts de despliegue/reversión (deploy / rollback SQL).
+1. `\documents\inventario_plan.md` (este documento).
+2. Cambios en `\scripts\Untitled-1.sql` (package `pkg_inventario_carnes` y trigger `trg_alerta_stock`): helpers, validaciones y manejo de errores.
+3. 
+4. 
 
 Supuestos razonables
 - La base de datos objetivo es Oracle 19c.
